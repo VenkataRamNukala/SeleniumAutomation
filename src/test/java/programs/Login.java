@@ -23,6 +23,7 @@ public class Login {
 		driver.findElement(By.id("submitLoginBtn")).click();
 		Thread.sleep(4000);
 		driver.close();
+		driver.close();
 		
 	}
 
